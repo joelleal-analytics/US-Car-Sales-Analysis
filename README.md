@@ -1,4 +1,4 @@
-# US Car Sales Trends, Regional Demand, and Market Share (2018-2024)
+# Evaluating US Car Sales Trends, Regional Demand, and Market Share (2018-2024)
 An Excel dynamic dashboard analyzing 1M+ rows of raw US car sales data from 2018 to 2024.
 
 ## Executive Summary
